@@ -1,21 +1,23 @@
 body{
-background-color:pink;
+background-color:Black;
 }
 h1{
-color:green;
+color:white;
 text-align: center;
 }
 .Rajubhai{
 Color:Red;
 font-size:45px;
 border-radius:12px;
-background:blue;
+background: yellow;
+text-align: center;
 }
 .Rajabhai{
-color:orange;
+color:red;
 border-radius:12px;
 font-size:45px;
-background:green;
+background: yellow;
+text-align:center;
 }
 
 
