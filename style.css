@@ -16,6 +16,7 @@ font-size:45px;
 border-radius:12px;
 background:Red;
 align-item:center;
+text-align:center;
 }
 .Rajabhai{
 color:white;
@@ -25,7 +26,9 @@ background:Red;
 align-item:center;
 }
 img{
-align-item:center;}
+align-item:center;
+text-align=:cente;
+}
 
 
 
