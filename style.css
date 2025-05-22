@@ -1,5 +1,6 @@
 body{
-background-color:Amber;
+background-color:Navy;
+align-item:center;
 }
 h1{
 color: yellow;
@@ -10,19 +11,21 @@ color:yellow;
 text-align:center;
 }
 .Rajubhai{
-Color:Apple;
+Color:white;
 font-size:45px;
 border-radius:12px;
-background:Cream;
-align-item:Center;
+background:Black;
+align-item:center;
 }
 .Rajabhai{
-color:Apple;
+color:white;
 border-radius:12px;
 font-size:45px;
-background:Cream;
-align-item:Center;
+background:Black;
+align-item:center;
 }
+img{
+align-item:center;}
 
 
 
