@@ -1,26 +1,27 @@
 body{
-background-color:Navy;
+background-color: Peacock;
 }
 h1{
-color:Blue;
+color:sand;
 text-align: center;
 }
 h2{
 color:yellow;
+text-align:center;
 }
 .Rajubhai{
-Color:Red;
+Color:apple;
 font-size:45px;
 border-radius:12px;
-background: yellow;
-text-align: center;
+background: cream;
+align-item: center;
 }
 .Rajabhai{
-color:red;
+color: apple;
 border-radius:12px;
 font-size:45px;
-background: yellow;
-text-align:center;
+background: cream;
+align-item:center;
 }
 
 
